@@ -1,0 +1,27 @@
+{
+  "name": "Lasse Pedersen Hairstylist",
+  "short_name": "Lasse Pedersen",
+  "icons": [{
+      "src": "/assets/meta/mstile-150x150.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    }, {
+      "src": "/assets/meta/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }, {
+      "src": "/assets/meta/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }],
+  "start_url": "https://lassepedersen.biz/?manifest=1",
+  "scope": "/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "related_applications": [{
+    "platform": "web",
+    "url": "https://lassepedersen.biz"
+  }]
+}
