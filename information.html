@@ -50,7 +50,7 @@
       var rootFolder = "";
     </script>
 
-    <link rel="stylesheet" href="static/css/styles.min.css">
+    <link rel="stylesheet" href="static/css/styles.css">
 
   </head>
   <body class="scroll-to-explore--show">
@@ -167,12 +167,6 @@
       </main>
     </div>
     <script src="static/js/scripts.min.js"></script>
-    <script>
-      if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("/sw-offline.js").then(function () {
-          console.log("Offline Service Worker Registered");
-        });
-      }
-    </script>
+
   </body>
 </html>
