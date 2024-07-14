@@ -11278,7 +11278,7 @@ var __extends =
           [].slice
             .call(this.el.querySelectorAll("nav[role='navigation'] li"))
             .map(function (e, t) {
-              e.classList.remove("active"), e.classList.remove("active-semi");
+              e.classList.remove("active","active-semi");
               var o = e.getElementsByTagName("a")[0].getAttribute("href");
               "/" !== o && -1 !== n.indexOf(o)
                 ? e.classList.add("active-semi")

@@ -1,6 +1,6 @@
 {
-  "name": "Lasse Pedersen Hairstylist",
-  "short_name": "Lasse Pedersen",
+  "name": "QIAN Photographer",
+  "short_name": "QIAN",
   "icons": [{
       "src": "/assets/meta/mstile-150x150.png",
       "type": "image/png",
@@ -14,7 +14,7 @@
       "type": "image/png",
       "sizes": "512x512"
     }],
-  "start_url": "https://lassepedersen.biz/?manifest=1",
+  "start_url": "https://qianweb.pages.dev/?manifest=1",
   "scope": "/",
   "display": "fullscreen",
   "background_color": "#ffffff",
@@ -22,6 +22,6 @@
   "orientation": "portrait-primary",
   "related_applications": [{
     "platform": "web",
-    "url": "https://lassepedersen.biz"
+    "url": "https://qianweb.pages.dev"
   }]
 }
