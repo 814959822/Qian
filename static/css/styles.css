@@ -240,9 +240,7 @@ a:visited {
 }
 @font-face {
   font-family: bluu;
-  src: url(../font/SemiBold.ttf) format("truetype"),
-    url(../font/SemiBold.woff) format("woff"),
-    url(../font/SemiBold.woff) format("woff2");
+  src: url(../font/SemiBold.ttf) format("truetype");
   font-weight: 400;
   font-style: normal;
 }
